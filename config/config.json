@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "gensc",
+    "password": 123,
+    "database": "onetomany",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "gensc",
+    "password": 123,
+    "database": "onetomany",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "gensc",
+    "password": 123,
+    "database": "onetomany",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
